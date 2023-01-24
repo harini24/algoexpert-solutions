@@ -1,3 +1,6 @@
+// Time - O(n) best O(n*n) avg and worst
+// space - O(1)
+
 function insertionSort(array) {
   // Write your code here.
   for (let i = 1; i < array.length; i++) {

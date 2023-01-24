@@ -1,3 +1,6 @@
+# Time - O(n) best O(n*n) avg and worst
+# space - O(1)
+
 def insertionSort(array):
     # Write your code here.
     for i in range(1,len(array)):
